@@ -1,11 +1,3 @@
----
-title: AdamAlston
-date: 2020-29-08
-spoiler: Creativity Readme Template
-categories: ["creativity", "all-profile"]
-githubUsername: 'adamalston'
----
-
 **Languages I'm familar with**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
