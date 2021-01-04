@@ -5,7 +5,7 @@ I am a recent Computer Science (BEng) 1st Hons Graduate from Anglia Ruskin Unive
 **Languages I'm familar with**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![C++](https://img.shields.io/badge/-C#-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
