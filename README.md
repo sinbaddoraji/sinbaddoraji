@@ -1,7 +1,3 @@
-**Who is Osinachi?**
-
-I am a recent Computer Science (BEng) 1st Hons Graduate from Anglia Ruskin University, Cambridge. I have a solid foundation in object oriented programming and can easily learn languages, frameworks and other development technologies because of this. In the respositories, you can find University projects as well as personal projects demonstrating some of the skills I possess.
-
 **Languages I'm familar with**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
