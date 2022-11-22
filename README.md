@@ -2,16 +2,9 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Technologies I have worked with**
 
@@ -64,6 +57,22 @@ https://github.com/sinbaddoraji/Snakey
 
 
 
+
+# .Net Apps
+
+https://github.com/sinbaddoraji/JSharp_IDE
+
+https://github.com/sinbaddoraji/IrisMed
+
+https://github.com/sinbaddoraji/SpriteMaker
+
+https://github.com/sinbaddoraji/DictionarySearch
+
+https://github.com/sinbaddoraji/GifMaker
+
+https://github.com/sinbaddoraji/Paint.Ra
+
+https://github.com/sinbaddoraji/ConsoleImageViewer
 
 
 
