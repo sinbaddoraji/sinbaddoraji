@@ -76,4 +76,10 @@ https://github.com/sinbaddoraji/ConsoleImageViewer
 
 
 
+# Windows replacement series
+
+https://github.com/sinbaddoraji/NotepadX
+
+
+
 
