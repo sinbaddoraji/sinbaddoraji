@@ -33,38 +33,74 @@ Front end:
 
 
 
-
-
-# GameSeries
-
-Working Games:
+# Games
+C# games:
 
 https://github.com/sinbaddoraji/Smart_TicTakToe
 
 https://github.com/sinbaddoraji/Evil_Hangman
 
-https://github.com/sinbaddoraji/Car-racing
-
-https://github.com/sinbaddoraji/SnakeGame
-
-https://github.com/sinbaddoraji/PingPong
-
 https://github.com/sinbaddoraji/Wordle-WPF
-
-
-In-progress:
 
 https://github.com/sinbaddoraji/Snakey
 
+Python Games:
+
+https://github.com/sinbaddoraji/Car-racing
+
+https://github.com/sinbaddoraji/PingPong
+
 https://github.com/sinbaddoraji/Sudoku
+
+C++/CLR games:
+
+https://github.com/sinbaddoraji/SnakeGame
+
+
+
+
+# Mobile Apps
+
+Flutter:
+
+https://github.com/sinbaddoraji/GameRev
+
+
+
+
+
+# FullStack Web Apps
+
+C#
+
+https://github.com/sinbaddoraji/IrisMed
+
+Java:
+
+https://github.com/sinbaddoraji/Clothes4Men
+
+Python:
+
+https://github.com/sinbaddoraji/artim
+
+
+
+
+
+# Restful APIs
+
+Javascript (Node.js or Deno.js):
+
+https://github.com/sinbaddoraji/GameRev_API
+
+ASP.Net:
+
+https://github.com/sinbaddoraji/BookStore
 
 
 
 
 # .Net Apps
-
-
-Image Processing:
 
 https://github.com/sinbaddoraji/GifMaker
 
@@ -78,8 +114,6 @@ https://github.com/sinbaddoraji/Piko
 
 https://github.com/sinbaddoraji/SpriteMaker
 
-Text:
-
 https://github.com/sinbaddoraji/JSharp_IDE
 
 https://github.com/sinbaddoraji/DictionarySearch
@@ -87,25 +121,4 @@ https://github.com/sinbaddoraji/DictionarySearch
 https://github.com/sinbaddoraji/NotepadX
 
 https://github.com/sinbaddoraji/Thothi
-
-
-# Mobile Apps
-
-https://github.com/sinbaddoraji/GameRev
-
-
-# FullStack Web Apps
-
-https://github.com/sinbaddoraji/IrisMed
-
-https://github.com/sinbaddoraji/Clothes4Men
-
-https://github.com/sinbaddoraji/artim
-
-
-# Restful APIs
-
-https://github.com/sinbaddoraji/GameRev_API
-
-https://github.com/sinbaddoraji/BookStore
 
