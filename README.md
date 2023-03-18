@@ -51,8 +51,6 @@ https://github.com/sinbaddoraji/PingPong
 
 https://github.com/sinbaddoraji/Wordle-WPF
 
-In development:
-
 https://github.com/sinbaddoraji/Snakey
 
 
@@ -71,6 +69,12 @@ https://github.com/sinbaddoraji/GifMaker
 https://github.com/sinbaddoraji/Paint.Ra
 
 https://github.com/sinbaddoraji/ConsoleImageViewer
+
+https://github.com/sinbaddoraji/NotepadX
+
+https://github.com/sinbaddoraji/Piko
+
+https://github.com/sinbaddoraji/Thothi
 
 
 # Mobile Apps
@@ -91,10 +95,8 @@ https://github.com/sinbaddoraji/artim
 
 https://github.com/sinbaddoraji/GameRev_API
 
+https://github.com/sinbaddoraji/BookStore
 
-# Windows replacement series
-
-https://github.com/sinbaddoraji/NotepadX
 
 
 
