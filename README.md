@@ -58,21 +58,28 @@ https://github.com/sinbaddoraji/Snakey
 
 # .Net Apps
 
-https://github.com/sinbaddoraji/JSharp_IDE
 
-https://github.com/sinbaddoraji/SpriteMaker
-
-https://github.com/sinbaddoraji/DictionarySearch
+Image Processing:
 
 https://github.com/sinbaddoraji/GifMaker
+
+https://github.com/sinbaddoraji/GraphProg
 
 https://github.com/sinbaddoraji/Paint.Ra
 
 https://github.com/sinbaddoraji/ConsoleImageViewer
 
-https://github.com/sinbaddoraji/NotepadX
-
 https://github.com/sinbaddoraji/Piko
+
+https://github.com/sinbaddoraji/SpriteMaker
+
+Text:
+
+https://github.com/sinbaddoraji/JSharp_IDE
+
+https://github.com/sinbaddoraji/DictionarySearch
+
+https://github.com/sinbaddoraji/NotepadX
 
 https://github.com/sinbaddoraji/Thothi
 
@@ -96,8 +103,4 @@ https://github.com/sinbaddoraji/artim
 https://github.com/sinbaddoraji/GameRev_API
 
 https://github.com/sinbaddoraji/BookStore
-
-
-
-
 
