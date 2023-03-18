@@ -51,7 +51,12 @@ https://github.com/sinbaddoraji/PingPong
 
 https://github.com/sinbaddoraji/Wordle-WPF
 
+
+In-progress:
+
 https://github.com/sinbaddoraji/Snakey
+
+https://github.com/sinbaddoraji/Sudoku
 
 
 
