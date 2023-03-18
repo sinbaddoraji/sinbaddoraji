@@ -39,11 +39,11 @@ Front end:
 
 Working Games:
 
-https://github.com/sinbaddoraji/Smart_TicTakToe_
+https://github.com/sinbaddoraji/Smart_TicTakToe
 
 https://github.com/sinbaddoraji/Evil_Hangman
 
-https://github.com/sinbaddoraji/Distributed-Programming
+https://github.com/sinbaddoraji/Car-racing
 
 https://github.com/sinbaddoraji/SnakeGame
 
