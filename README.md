@@ -37,7 +37,7 @@ https://github.com/sinbaddoraji/GameRev
 
 
 
-# FullStack Web Apps
+# Fullstack (Frontend + Backend)
 
 C#
 
@@ -55,7 +55,7 @@ https://github.com/sinbaddoraji/artim
 
 
 
-# Restful APIs
+# Restful APIs - Backend Only
 
 Javascript (Node.js or Deno.js):
 
