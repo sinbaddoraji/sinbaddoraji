@@ -31,30 +31,9 @@ Front end:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+# AI/ Machine Learning
 
-
-# Games
-C# games:
-
-https://github.com/sinbaddoraji/Smart_TicTakToe
-
-https://github.com/sinbaddoraji/Evil_Hangman
-
-https://github.com/sinbaddoraji/Wordle-WPF
-
-https://github.com/sinbaddoraji/Snakey
-
-Python Games:
-
-https://github.com/sinbaddoraji/Car-racing
-
-https://github.com/sinbaddoraji/PingPong
-
-https://github.com/sinbaddoraji/Sudoku
-
-C++/CLR games:
-
-https://github.com/sinbaddoraji/SnakeGame
+https://github.com/sinbaddoraji/CIFAR10-Identifier
 
 
 
@@ -96,6 +75,35 @@ https://github.com/sinbaddoraji/GameRev_API
 ASP.Net:
 
 https://github.com/sinbaddoraji/BookStore
+
+
+
+
+
+# Games
+C# games:
+
+https://github.com/sinbaddoraji/Smart_TicTakToe
+
+https://github.com/sinbaddoraji/Evil_Hangman
+
+https://github.com/sinbaddoraji/Wordle-WPF
+
+https://github.com/sinbaddoraji/Snakey
+
+Python Games:
+
+https://github.com/sinbaddoraji/Car-racing
+
+https://github.com/sinbaddoraji/PingPong
+
+https://github.com/sinbaddoraji/Sudoku
+
+C++/CLR games:
+
+https://github.com/sinbaddoraji/SnakeGame
+
+
 
 
 
