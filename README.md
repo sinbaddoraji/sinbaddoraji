@@ -22,7 +22,7 @@
 
 # AI/ Machine Learning
 
-https://github.com/sinbaddoraji/CIFAR10-Identifier
+  - https://github.com/sinbaddoraji/CIFAR10-Identifier
 
 
 
@@ -31,7 +31,7 @@ https://github.com/sinbaddoraji/CIFAR10-Identifier
 
 Flutter:
 
-https://github.com/sinbaddoraji/GameRev
+  - https://github.com/sinbaddoraji/GameRev
 
 
 
@@ -41,15 +41,15 @@ https://github.com/sinbaddoraji/GameRev
 
 C#
 
-https://github.com/sinbaddoraji/IrisMed
+  - https://github.com/sinbaddoraji/IrisMed
 
 Java:
 
-https://github.com/sinbaddoraji/Clothes4Men
+  - https://github.com/sinbaddoraji/Clothes4Men
 
 Python:
 
-https://github.com/sinbaddoraji/artim
+  - https://github.com/sinbaddoraji/artim
 
 
 
@@ -59,63 +59,80 @@ https://github.com/sinbaddoraji/artim
 
 Javascript (Node.js or Deno.js):
 
-https://github.com/sinbaddoraji/GameRev_API
+  - https://github.com/sinbaddoraji/GameRev_API
 
 ASP.Net:
 
-https://github.com/sinbaddoraji/BookStore
+  - https://github.com/sinbaddoraji/BookStore
 
 
 
 
 
 # Games
+
 C# games:
 
-https://github.com/sinbaddoraji/Smart_TicTakToe
+  - https://github.com/sinbaddoraji/Smart_TicTakToe
 
-https://github.com/sinbaddoraji/Evil_Hangman
+  - https://github.com/sinbaddoraji/Evil_Hangman
 
-https://github.com/sinbaddoraji/Wordle-WPF
+  - https://github.com/sinbaddoraji/Wordle-WPF
 
-https://github.com/sinbaddoraji/Snakey
+  - https://github.com/sinbaddoraji/Snakey
 
 Python Games:
 
-https://github.com/sinbaddoraji/Car-racing
+  - https://github.com/sinbaddoraji/Car-racing
 
-https://github.com/sinbaddoraji/PingPong
+  - https://github.com/sinbaddoraji/PingPong
 
-https://github.com/sinbaddoraji/Sudoku
+  - https://github.com/sinbaddoraji/Sudoku
 
 C++/CLR games:
 
-https://github.com/sinbaddoraji/SnakeGame
+  - https://github.com/sinbaddoraji/SnakeGame
 
 
 
+# C++ Apps
+
+  - https://github.com/sinbaddoraji/TextSearch
 
 
 
 # .Net Apps
 
-https://github.com/sinbaddoraji/GifMaker
+Console:
 
-https://github.com/sinbaddoraji/GraphProg
+  - https://github.com/sinbaddoraji/ConsoleImageViewer
 
-https://github.com/sinbaddoraji/Paint.Ra
+  - https://github.com/sinbaddoraji/DictionarySearch
 
-https://github.com/sinbaddoraji/ConsoleImageViewer
+Windows Forms:
 
-https://github.com/sinbaddoraji/Piko
+  - https://github.com/sinbaddoraji/GifMaker
 
-https://github.com/sinbaddoraji/SpriteMaker
+  - https://github.com/sinbaddoraji/GraphProg
 
-https://github.com/sinbaddoraji/JSharp_IDE
+  - https://github.com/sinbaddoraji/Paint.Ra
 
-https://github.com/sinbaddoraji/DictionarySearch
+  - https://github.com/sinbaddoraji/Piko
 
-https://github.com/sinbaddoraji/NotepadX
+  - https://github.com/sinbaddoraji/SpriteMaker
 
-https://github.com/sinbaddoraji/Thothi
+  - https://github.com/sinbaddoraji/NotepadX
+
+  - https://github.com/sinbaddoraji/Thothi
+
+  - https://github.com/sinbaddoraji/FineSearch
+
+WPF:
+
+  - https://github.com/sinbaddoraji/JSharp_IDE
+
+
+# Other
+
+  - https://github.com/sinbaddoraji/InsertionSort
 
