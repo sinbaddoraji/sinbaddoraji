@@ -22,16 +22,16 @@
 
 # AI/ Machine Learning
 
-  - https://github.com/sinbaddoraji/CIFAR10-Identifier
+- https://github.com/sinbaddoraji/CIFAR10-Identifier
 
 
 
 
 # Mobile Apps
 
-Flutter:
+  - <b>Flutter:</b>
 
-  - https://github.com/sinbaddoraji/GameRev
+    - https://github.com/sinbaddoraji/GameRev
 
 
 
@@ -39,17 +39,17 @@ Flutter:
 
 # Fullstack (Frontend + Backend)
 
-C#
+  - <b>C#:</b>
 
-  - https://github.com/sinbaddoraji/IrisMed
+    - https://github.com/sinbaddoraji/IrisMed
 
-Java:
+  - <b>Java:</b>
 
-  - https://github.com/sinbaddoraji/Clothes4Men
+    - https://github.com/sinbaddoraji/Clothes4Men
 
-Python:
+  - <b>Python:</b>
 
-  - https://github.com/sinbaddoraji/artim
+    - https://github.com/sinbaddoraji/artim
 
 
 
@@ -57,13 +57,13 @@ Python:
 
 # Restful APIs - Backend Only
 
-Javascript (Node.js or Deno.js):
+  - <b>Javascript (Node.js or Deno.js):</b>
 
-  - https://github.com/sinbaddoraji/GameRev_API
+    - https://github.com/sinbaddoraji/GameRev_API
 
-ASP.Net:
+  - <b>ASP.Net:</b>
 
-  - https://github.com/sinbaddoraji/BookStore
+    - https://github.com/sinbaddoraji/BookStore
 
 
 
@@ -71,27 +71,27 @@ ASP.Net:
 
 # Games
 
-C# games:
+  - <b>C# games:</b>
 
-  - https://github.com/sinbaddoraji/Smart_TicTakToe
+    - https://github.com/sinbaddoraji/Smart_TicTakToe
 
-  - https://github.com/sinbaddoraji/Evil_Hangman
+    - https://github.com/sinbaddoraji/Evil_Hangman
 
-  - https://github.com/sinbaddoraji/Wordle-WPF
+    - https://github.com/sinbaddoraji/Wordle-WPF
 
-  - https://github.com/sinbaddoraji/Snakey
+    - https://github.com/sinbaddoraji/Snakey
 
-Python Games:
+  - <b>Python Games:</b>
 
-  - https://github.com/sinbaddoraji/Car-racing
+    - https://github.com/sinbaddoraji/Car-racing
 
-  - https://github.com/sinbaddoraji/PingPong
+    - https://github.com/sinbaddoraji/PingPong
 
-  - https://github.com/sinbaddoraji/Sudoku
+    - https://github.com/sinbaddoraji/Sudoku
 
-C++/CLR games:
+  - <b>C++/CLR games:</b>
 
-  - https://github.com/sinbaddoraji/SnakeGame
+    - https://github.com/sinbaddoraji/SnakeGame
 
 
 
@@ -103,33 +103,33 @@ C++/CLR games:
 
 # .Net Apps
 
-Console:
+  - <b>Console:</b>
 
-  - https://github.com/sinbaddoraji/ConsoleImageViewer
+    - https://github.com/sinbaddoraji/ConsoleImageViewer
 
-  - https://github.com/sinbaddoraji/DictionarySearch
+    - https://github.com/sinbaddoraji/DictionarySearch
 
-Windows Forms:
+  - <b>Windows Forms:</b>
 
-  - https://github.com/sinbaddoraji/GifMaker
+    - https://github.com/sinbaddoraji/GifMaker
 
-  - https://github.com/sinbaddoraji/GraphProg
+    - https://github.com/sinbaddoraji/GraphProg
 
-  - https://github.com/sinbaddoraji/Paint.Ra
+    - https://github.com/sinbaddoraji/Paint.Ra
 
-  - https://github.com/sinbaddoraji/Piko
+    - https://github.com/sinbaddoraji/Piko
 
-  - https://github.com/sinbaddoraji/SpriteMaker
+    - https://github.com/sinbaddoraji/SpriteMaker
 
-  - https://github.com/sinbaddoraji/NotepadX
+    - https://github.com/sinbaddoraji/NotepadX
+  
+    - https://github.com/sinbaddoraji/Thothi
+  
+    - https://github.com/sinbaddoraji/FineSearch
 
-  - https://github.com/sinbaddoraji/Thothi
+  - <b>WPF:</b>
 
-  - https://github.com/sinbaddoraji/FineSearch
-
-WPF:
-
-  - https://github.com/sinbaddoraji/JSharp_IDE
+    - https://github.com/sinbaddoraji/JSharp_IDE
 
 
 # Other
