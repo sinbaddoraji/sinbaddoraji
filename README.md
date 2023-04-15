@@ -37,7 +37,7 @@
 
 
 
-# Fullstack (Frontend + Backend)
+# Web
 
   - <b>C#:</b>
 
@@ -51,6 +51,9 @@
   - <b>Python:</b>
 
     - https://github.com/sinbaddoraji/artim
+  
+  - <b>Javascript:</b>
+    - https://github.com/sinbaddoraji/My-Note-s-App
 
 
 
