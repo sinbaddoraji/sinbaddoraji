@@ -77,6 +77,10 @@
     - https://github.com/sinbaddoraji/BookStore
 
 
+  - <b>Azure Functions</b>
+      - https://github.com/sinbaddoraji/DataDock_Functions
+
+
 # Bigger Games
 
   - Nothing yet
