@@ -126,6 +126,8 @@
 
     - https://github.com/sinbaddoraji/DictionarySearch
 
+    - https://github.com/sinbaddoraji/Cmd.net
+
   - <b>Windows Forms:</b>
 
     - https://github.com/sinbaddoraji/GifMaker
