@@ -1,4 +1,4 @@
-**Technologies i'm fluent at:**
+**Technologies I'm fluent in:**
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -7,7 +7,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Other technologies i can work with:**
+**Other technologies I can work with:**
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,8 +29,7 @@
 
 # AI/ Machine Learning
 
-- <a href="https://github.com/sinbaddoraji/CIFAR10-Identifier">CIFAR10-Identifier</a> : A CIFAR10 Identifier in tensorflow
-
+- <a href="https://github.com/sinbaddoraji/CIFAR10-Identifier">CIFAR10-Identifier</a> : TensorFlow-based CIFAR-10 Identifier.
 
 
 
@@ -38,28 +37,28 @@
 
   - <b>Flutter:</b>
 
-    - <a href="https://github.com/sinbaddoraji/GameRev">GameRev</a> : A game review app in Flutter
+    - <a href="https://github.com/sinbaddoraji/GameRev">GameRev</a> : Game review app built in Flutter.
 
 
 # Web
 
   - <b>C#:</b>
 
-    - <a href="https://github.com/sinbaddoraji/IrisMed">IrisMed</a> : A hospital management system with symptom prediction
+    - <a href="https://github.com/sinbaddoraji/IrisMed">IrisMed</a> : Hospital management system with symptom prediction
 
-    - <a href="https://github.com/sinbaddoraji/QuizMaker">QuizMaker</a> : A webapp that allows users create and share surveys
+    - <a href="https://github.com/sinbaddoraji/QuizMaker">QuizMaker</a> : Webapp that allows users create and share surveys
 
 
   - <b>Java:</b>
 
-    - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a> : A clothing store
+    - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a> : Clothing store
 
   - <b>Python:</b>
 
-    - <a href="https://github.com/sinbaddoraji/artim">artim</a>: A website that allows users find artisans
+    - <a href="https://github.com/sinbaddoraji/artim">artim</a>: Website that allows users find artisans
   
   - <b>Javascript:</b>
-    - <a href="https://github.com/sinbaddoraji/My-Note-s-App">My-Note-s-App</a> : A simple html, css and JS note app with no database (browser storage only)
+    - <a href="https://github.com/sinbaddoraji/My-Note-s-App">My-Note-s-App</a>: Simple HTML, CSS and JS note app with no database (browser storage only)
 
 
 
@@ -70,15 +69,15 @@
 
   - <b>Javascript (Node.js or Deno.js):</b>
 
-    - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a> : The backend for a game review app in flutter
+    - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a> : Backend for a game review app in flutter
 
   - <b>ASP.Net:</b>
 
-    - <a href="https://github.com/sinbaddoraji/BookStore">BookStore</a> : The backend for a bookstore website
+    - <a href="https://github.com/sinbaddoraji/BookStore">BookStore</a> : Backend for a bookstore website
 
 
   - <b>Azure Functions</b>
-      - <a href="https://github.com/sinbaddoraji/DataDock_Functions">DataDock_Functions</a> : An API in Azure functions that stores files in blob storage
+      - <a href="https://github.com/sinbaddoraji/DataDock_Functions">DataDock_Functions</a> : API in Azure functions that stores files in blob storage
 
 
 # Simple Games
@@ -106,29 +105,29 @@
 
   - <b>C++/CLR games:</b>
 
-    - <a href="https://github.com/sinbaddoraji/SnakeGame">SnakeGame</a> : A snake game implementation in CLR
+    - <a href="https://github.com/sinbaddoraji/SnakeGame">SnakeGame</a> : Snake game implementation in CLR
 
 
 
 # C++ Apps
 
-  - <a href="https://github.com/sinbaddoraji/TextSearch">TextSearch</a> : A tool for analysisng text files
+  - <a href="https://github.com/sinbaddoraji/TextSearch">TextSearch</a> : Tool for analysisng text files
 
 
 # .Net Apps
 
   - <b>Console:</b>
 
-      - <a href="https://github.com/sinbaddoraji/ConsoleImageViewer">ConsoleImageViewer</a> : An ASCII photo viewer
+      - <a href="https://github.com/sinbaddoraji/ConsoleImageViewer">ConsoleImageViewer</a> : ASCII photo viewer
 
-      - <a href="https://github.com/sinbaddoraji/DictionarySearch">DictionarySearch</a> : A console tool for searching through the english dictionary
+      - <a href="https://github.com/sinbaddoraji/DictionarySearch">DictionarySearch</a> : Console tool for searching through the english dictionary
 
-      - <a href="https://github.com/sinbaddoraji/Cmd.net">Cmd.net</a> : An independent command prompt alternative 
+      - <a href="https://github.com/sinbaddoraji/Cmd.net">Cmd.net</a> : Independent command prompt alternative 
 
 
   - <b>Windows Forms:</b>
 
-    - <a href="https://github.com/sinbaddoraji/GifMaker">GifMaker</a> : A tool for making sprites/GIFs
+    - <a href="https://github.com/sinbaddoraji/GifMaker">GifMaker</a> : Tool for making sprites/GIFs
 
     - <a href="https://github.com/sinbaddoraji/GraphProg">GraphProg</a> : Graphic processor
 
@@ -136,21 +135,21 @@
 
     - <a href="https://github.com/sinbaddoraji/Piko">Piko</a> : Picture Viewer
 
-    - <a href="https://github.com/sinbaddoraji/SpriteMaker">SpriteMaker</a> : A tool for making sprites/GIFs
+    - <a href="https://github.com/sinbaddoraji/SpriteMaker">SpriteMaker</a> : Tool for making sprites/GIFs
 
-    - <a href="https://github.com/sinbaddoraji/NotepadX">NotepadX</a> : A notepad replacement
+    - <a href="https://github.com/sinbaddoraji/NotepadX">NotepadX</a> : Notepad replacement
   
     - <a href="https://github.com/sinbaddoraji/Thothi">Thothi</a> : A PDF scraper
   
-    - <a href="https://github.com/sinbaddoraji/FineSearch">FineSearch</a> : A tool for searching filesystems for files
+    - <a href="https://github.com/sinbaddoraji/FineSearch">FineSearch</a> : Tool for searching filesystems for files
 
   - <b>WPF:</b>
 
-    - <a href="https://github.com/sinbaddoraji/JSharp_IDE">JSharp_IDE</a> : A java IDE that can be used as a code editor
+    - <a href="https://github.com/sinbaddoraji/JSharp_IDE">JSharp_IDE</a> : Java IDE that can be used as a code editor
     
-    - <a href="https://github.com/sinbaddoraji/ExplorerX">ExplorerX</a> : A windows explorer replacement
+    - <a href="https://github.com/sinbaddoraji/ExplorerX">ExplorerX</a> : Windows explorer replacement
 
-    - <a href="https://github.com/sinbaddoraji/LockBox">LockBox</a> : A password manager
+    - <a href="https://github.com/sinbaddoraji/LockBox">LockBox</a> : Password manager
 
 
 # Other
