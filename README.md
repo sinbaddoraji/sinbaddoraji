@@ -29,7 +29,7 @@
 
 # AI/ Machine Learning
 
-- https://github.com/sinbaddoraji/CIFAR10-Identifier
+- <a href="https://github.com/sinbaddoraji/CIFAR10-Identifier">CIFAR10-Identifier</a>
 
 
 
@@ -38,29 +38,29 @@
 
   - <b>Flutter:</b>
 
-    - https://github.com/sinbaddoraji/GameRev
-
-
-
+    - <a href="https://github.com/sinbaddoraji/GameRev">GameRev</a>
 
 
 # Web
 
   - <b>C#:</b>
 
-    - https://github.com/sinbaddoraji/IrisMed
-    - https://github.com/sinbaddoraji/QuizMaker
+    - <a href="https://github.com/sinbaddoraji/IrisMed">IrisMed</a>
+
+    - <a href="https://github.com/sinbaddoraji/QuizMaker">QuizMaker</a>
+
 
   - <b>Java:</b>
 
-    - https://github.com/sinbaddoraji/Clothes4Men
+    - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a>
 
   - <b>Python:</b>
 
-    - https://github.com/sinbaddoraji/artim
+    - <a href="https://github.com/sinbaddoraji/artim">artim</a>
   
   - <b>Javascript:</b>
-    - https://github.com/sinbaddoraji/My-Note-s-App
+    - <a href="https://github.com/sinbaddoraji/My-Note-s-App">My-Note-s-App</a>
+
 
 
 
@@ -70,88 +70,89 @@
 
   - <b>Javascript (Node.js or Deno.js):</b>
 
-    - https://github.com/sinbaddoraji/GameRev_API
+    - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a>
 
   - <b>ASP.Net:</b>
 
-    - https://github.com/sinbaddoraji/BookStore
+    - <a href="https://github.com/sinbaddoraji/BookStore">BookStore</a>
 
 
   - <b>Azure Functions</b>
-      - https://github.com/sinbaddoraji/DataDock_Functions
+      - <a href="https://github.com/sinbaddoraji/DataDock_Functions">DataDock_Functions</a>
 
 
 # Simple Games
 
   - <b>C# games:</b>
 
-    - https://github.com/sinbaddoraji/Smart_TicTakToe
+      - <a href="https://github.com/sinbaddoraji/Smart_TicTakToe">Smart_TicTakToe</a>
 
-    - https://github.com/sinbaddoraji/Evil_Hangman
+      - <a href="https://github.com/sinbaddoraji/Evil_Hangman">Evil_Hangman</a>
 
-    - https://github.com/sinbaddoraji/Wordle-WPF
+      - <a href="https://github.com/sinbaddoraji/Wordle-WPF">Wordle-WPF</a>
 
-    - https://github.com/sinbaddoraji/Snakey
+      - <a href="https://github.com/sinbaddoraji/Snakey">Snakey</a>
 
   - <b>Python Games:</b>
 
-    - https://github.com/sinbaddoraji/Car-racing
+      - <a href="https://github.com/sinbaddoraji/Car-racing">Car-racing</a>
 
-    - https://github.com/sinbaddoraji/PingPong
+      - <a href="https://github.com/sinbaddoraji/PingPong">PingPong</a>
 
-    - https://github.com/sinbaddoraji/Sudoku
+      - <a href="https://github.com/sinbaddoraji/Sudoku">Sudoku</a>
+
 
   - <b>C++/CLR games:</b>
 
-    - https://github.com/sinbaddoraji/SnakeGame
+    - <a href="https://github.com/sinbaddoraji/SnakeGame">SnakeGame</a>
 
 
 
 # C++ Apps
 
-  - https://github.com/sinbaddoraji/TextSearch
-
+  - <a href="https://github.com/sinbaddoraji/TextSearch">TextSearch</a>
 
 
 # .Net Apps
 
   - <b>Console:</b>
 
-    - https://github.com/sinbaddoraji/ConsoleImageViewer
+      - <a href="https://github.com/sinbaddoraji/ConsoleImageViewer">ConsoleImageViewer</a>
 
-    - https://github.com/sinbaddoraji/DictionarySearch
+      - <a href="https://github.com/sinbaddoraji/DictionarySearch">DictionarySearch</a>
 
-    - https://github.com/sinbaddoraji/Cmd.net
+      - <a href="https://github.com/sinbaddoraji/Cmd.net">Cmd.net</a>
+
 
   - <b>Windows Forms:</b>
 
-    - https://github.com/sinbaddoraji/GifMaker
+    - <a href="https://github.com/sinbaddoraji/GifMaker">GifMaker</a>
 
-    - https://github.com/sinbaddoraji/GraphProg
+    - <a href="https://github.com/sinbaddoraji/GraphProg">GraphProg</a>
 
-    - https://github.com/sinbaddoraji/Paint.Ra
+    - <a href="https://github.com/sinbaddoraji/Paint.Ra">Paint.Ra</a>
 
-    - https://github.com/sinbaddoraji/Piko
+    - <a href="https://github.com/sinbaddoraji/Piko">Piko</a>
 
-    - https://github.com/sinbaddoraji/SpriteMaker
+    - <a href="https://github.com/sinbaddoraji/SpriteMaker">SpriteMaker</a>
 
-    - https://github.com/sinbaddoraji/NotepadX
+    - <a href="https://github.com/sinbaddoraji/NotepadX">NotepadX</a>
   
-    - https://github.com/sinbaddoraji/Thothi
+    - <a href="https://github.com/sinbaddoraji/Thothi">Thothi</a>
   
-    - https://github.com/sinbaddoraji/FineSearch
+    - <a href="https://github.com/sinbaddoraji/FineSearch">FineSearch</a>
 
   - <b>WPF:</b>
 
-    - https://github.com/sinbaddoraji/JSharp_IDE
+    - <a href="https://github.com/sinbaddoraji/JSharp_IDE">JSharp_IDE</a>
     
-    - https://github.com/sinbaddoraji/ExplorerX
+    - <a href="https://github.com/sinbaddoraji/ExplorerX">ExplorerX</a>
 
-    - https://github.com/sinbaddoraji/LockBox
+    - <a href="https://github.com/sinbaddoraji/LockBox">LockBox</a>
 
 
 # Other
 
-  - https://github.com/sinbaddoraji/InsertionSort
+  - <a href="https://github.com/sinbaddoraji/InsertionSort">InsertionSort</a>
 
 
