@@ -129,14 +129,14 @@
   - <b>Windows Forms:</b>
 
     - <a href="https://github.com/sinbaddoraji/GifMaker">GifMaker</a> : Tool for making sprites/GIFs
+   
+    - <a href="https://github.com/sinbaddoraji/SimpleWebBrowser">SimpleWebBrowser</a> : A simple web browser
 
     - <a href="https://github.com/sinbaddoraji/GraphProg">GraphProg</a> : Graphic processor
 
-    - <a href="https://github.com/sinbaddoraji/Paint.Ra">Paint.Ra</a> : Graphic processor
-
     - <a href="https://github.com/sinbaddoraji/Piko">Piko</a> : Picture Viewer
 
-    - <a href="https://github.com/sinbaddoraji/SpriteMaker">SpriteMaker</a> : Tool for making sprites/GIFs
+    - <a href="https://github.com/sinbaddoraji/SpriteMaker">SpriteMaker</a> : Tool for making rotated copies of an image                                                                                                        
 
     - <a href="https://github.com/sinbaddoraji/NotepadX">NotepadX</a> : Notepad replacement
   
