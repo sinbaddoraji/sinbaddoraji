@@ -48,7 +48,7 @@
 # Game Dev Journery
 
 
- - <a href="https://github.com/sinbaddoraji/Smart_TicTakToe">SuperPong</a> : An Arcade pong game with powerups and mini games
+ - <a href="https://github.com/sinbaddoraji/SuperPong">SuperPong</a> : An Arcade pong game with powerups and mini games
 
 # Simple Games
 
