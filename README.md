@@ -25,61 +25,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+# Game Dev Journery
 
-
-# AI/ Machine Learning
-
-- <a href="https://github.com/sinbaddoraji/CIFAR10-Identifier">CIFAR10-Identifier</a> : TensorFlow-based CIFAR-10 Identifier.
-
-- <a href="https://github.com/sinbaddoraji/Maze">Maze Pathfinder</a> : Maze path finding
-
-# Mobile Apps
-
-  - <b>Flutter:</b>
-
-    - <a href="https://github.com/sinbaddoraji/GameRev">GameRev</a> : Game review app built in Flutter.
-
-
-# Web
-
-  - <b>C#:</b>
-
-    - <a href="https://github.com/sinbaddoraji/IrisMed">IrisMed</a> : Hospital management system with symptom prediction
-
-    - <a href="https://github.com/sinbaddoraji/QuizMaker">QuizMaker</a> : Webapp that allows users create and share surveys
-
-
-  - <b>Java:</b>
-
-    - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a> : Clothing store
-
-  - <b>Python:</b>
-
-    - <a href="https://github.com/sinbaddoraji/artim">artim</a>: Website that allows users find artisans
-  
-  - <b>Javascript (No framework):</b>
-    - <a href="https://github.com/sinbaddoraji/My-Note-s-App">My-Note-s-App</a>: Simple HTML, CSS and JS note app with no database (browser storage only)
-    - <a href="https://github.com/sinbaddoraji/Uk_Skilled_worker_scanner">Uk_Skilled_worker_scanner</a>: A little minimalistic web tool that allows the user search through the UK skilled worker CSV file
-
-
-
-
-
-
-# Restful APIs - Backend Only
-
-  - <b>Javascript (Node.js or Deno.js):</b>
-
-    - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a> : Backend for a game review app in flutter
-
-  - <b>ASP.Net:</b>
-
-    - <a href="https://github.com/sinbaddoraji/BookStore">BookStore</a> : Backend for a bookstore website
-
-
-  - <b>Azure Functions</b>
-      - <a href="https://github.com/sinbaddoraji/DataDock_Functions">DataDock_Functions</a> : API in Azure functions that stores files in blob storage
-
+ - <a href="https://github.com/sinbaddoraji/Smart_TicTakToe">SuperPong</a> : An Arcade pong game with powerups and mini games
 
 # Simple Games
 
@@ -108,14 +56,7 @@
 
     - <a href="https://github.com/sinbaddoraji/SnakeGame">SnakeGame</a> : Snake game implementation in CLR
 
-
-
-# C++ Apps
-
-  - <a href="https://github.com/sinbaddoraji/TextSearch">TextSearch</a> : Tool for analysisng text files
-
-
-# .Net Apps
+# .Net Apps - Simple Tools (WPF, Windows Forms, Avalonia,...)
 
   - <b>Console:</b>
 
@@ -151,6 +92,64 @@
     - <a href="https://github.com/sinbaddoraji/ExplorerX">ExplorerX</a> : Windows explorer replacement
 
     - <a href="https://github.com/sinbaddoraji/LockBox">LockBox</a> : Password manager
+      
+# Web
+
+  - <b>C#:</b>
+
+    - <a href="https://github.com/sinbaddoraji/IrisMed">IrisMed</a> : Hospital management system with symptom prediction
+
+    - <a href="https://github.com/sinbaddoraji/QuizMaker">QuizMaker</a> : Webapp that allows users create and share surveys
+
+
+  - <b>Java:</b>
+
+    - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a> : Clothing store
+
+  - <b>Python:</b>
+
+    - <a href="https://github.com/sinbaddoraji/artim">artim</a>: Website that allows users find artisans
+  
+  - <b>Javascript (No framework):</b>
+    - <a href="https://github.com/sinbaddoraji/My-Note-s-App">My-Note-s-App</a>: Simple HTML, CSS and JS note app with no database (browser storage only)
+    - <a href="https://github.com/sinbaddoraji/Uk_Skilled_worker_scanner">Uk_Skilled_worker_scanner</a>: A little minimalistic web tool that allows the user search through the UK skilled worker CSV file
+
+
+# Restful APIs - Backend Only
+
+  - <b>Javascript (Node.js or Deno.js):</b>
+
+    - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a> : Backend for a game review app in flutter
+
+  - <b>ASP.Net:</b>
+
+    - <a href="https://github.com/sinbaddoraji/BookStore">BookStore</a> : Backend for a bookstore website
+
+
+  - <b>Azure Functions</b>
+      - <a href="https://github.com/sinbaddoraji/DataDock_Functions">DataDock_Functions</a> : API in Azure functions that stores files in blob storage
+
+
+
+# AI/ Machine Learning
+
+- <a href="https://github.com/sinbaddoraji/CIFAR10-Identifier">CIFAR10-Identifier</a> : TensorFlow-based CIFAR-10 Identifier.
+
+- <a href="https://github.com/sinbaddoraji/Maze">Maze Pathfinder</a> : Maze path finding
+
+  
+
+# Mobile Apps
+
+  - <b>Flutter:</b>
+
+    - <a href="https://github.com/sinbaddoraji/GameRev">GameRev</a> : Game review app built in Flutter.
+
+
+# C++ Apps
+
+  - <a href="https://github.com/sinbaddoraji/TextSearch">TextSearch</a> : Tool for analysisng text files
+
 
 
 # Other
