@@ -132,7 +132,6 @@
     - <a href="https://github.com/sinbaddoraji/artim">artim</a>: Website that allows users find artisans
   
   - <b>Javascript (No framework):</b>
-    - <a href="https://github.com/sinbaddoraji/My-Note-s-App">My-Note-s-App</a>: Simple HTML, CSS and JS note app with no database (browser storage only)
     - <a href="https://github.com/sinbaddoraji/Uk_Skilled_worker_scanner">Uk_Skilled_worker_scanner</a>: A little minimalistic web tool that allows the user search through the UK skilled worker CSV file
 
 
