@@ -35,6 +35,50 @@
 
  <p> I am a mid-level FullStack .NET engineer who works with web, mobile and desktop apps. This Github page, however, is a list of projects I managed to work on outside of work. My current main goal is to improve my game development skills and make Indie games part-time </p>
 
+
+# AI/ Machine Learning
+
+- <a href="https://github.com/sinbaddoraji/CIFAR10-Identifier">CIFAR10-Identifier</a> : TensorFlow-based CIFAR-10 Identifier.
+
+- <a href="https://github.com/sinbaddoraji/Maze">Maze Pathfinder</a> : Maze path finding
+      
+# Web
+
+  - <b>C#:</b>
+
+    - <a href="https://github.com/sinbaddoraji/IrisMed">IrisMed</a> : Hospital management system with symptom prediction
+
+    - <a href="https://github.com/sinbaddoraji/QuizMaker">QuizMaker</a> : Webapp that allows users create and share surveys
+
+
+  - <b>Java:</b>
+
+    - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a> : Clothing store
+
+  - <b>Python:</b>
+
+    - <a href="https://github.com/sinbaddoraji/artim">artim</a>: Website that allows users find artisans
+  
+  - <b>Javascript (No framework):</b>
+    - <a href="https://github.com/sinbaddoraji/Uk_Skilled_worker_scanner">Uk_Skilled_worker_scanner</a>: A little minimalistic web tool that allows the user search through the UK skilled worker CSV file
+
+
+# Restful APIs - Backend Only
+
+  - <b>Javascript (Node.js or Deno.js):</b>
+
+    - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a> : Backend for a game review app in flutter
+
+  - <b>ASP.Net:</b>
+
+    - <a href="https://github.com/sinbaddoraji/BookStore">BookStore</a> : Backend for a bookstore website
+    - <a href="https://github.com/sinbaddoraji/BookStore">Simple URL Shortener </a> : Backend for a simple URL shortner
+
+
+  - <b>Azure Functions</b>
+      - <a href="https://github.com/sinbaddoraji/DataDock_Functions">DataDock_Functions</a> : API in Azure functions that stores files in blob storage
+
+
 # Game Dev Journery
 
 
@@ -103,52 +147,6 @@
     - <a href="https://github.com/sinbaddoraji/ExplorerX">ExplorerX</a> : Windows explorer replacement
 
     - <a href="https://github.com/sinbaddoraji/LockBox">LockBox</a> : Password manager
-      
-# Web
-
-  - <b>C#:</b>
-
-    - <a href="https://github.com/sinbaddoraji/IrisMed">IrisMed</a> : Hospital management system with symptom prediction
-
-    - <a href="https://github.com/sinbaddoraji/QuizMaker">QuizMaker</a> : Webapp that allows users create and share surveys
-
-
-  - <b>Java:</b>
-
-    - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a> : Clothing store
-
-  - <b>Python:</b>
-
-    - <a href="https://github.com/sinbaddoraji/artim">artim</a>: Website that allows users find artisans
-  
-  - <b>Javascript (No framework):</b>
-    - <a href="https://github.com/sinbaddoraji/Uk_Skilled_worker_scanner">Uk_Skilled_worker_scanner</a>: A little minimalistic web tool that allows the user search through the UK skilled worker CSV file
-
-
-# Restful APIs - Backend Only
-
-  - <b>Javascript (Node.js or Deno.js):</b>
-
-    - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a> : Backend for a game review app in flutter
-
-  - <b>ASP.Net:</b>
-
-    - <a href="https://github.com/sinbaddoraji/BookStore">BookStore</a> : Backend for a bookstore website
-    - <a href="https://github.com/sinbaddoraji/BookStore">Simple URL Shortener </a> : Backend for a simple URL shortner
-
-
-  - <b>Azure Functions</b>
-      - <a href="https://github.com/sinbaddoraji/DataDock_Functions">DataDock_Functions</a> : API in Azure functions that stores files in blob storage
-
-
-
-# AI/ Machine Learning
-
-- <a href="https://github.com/sinbaddoraji/CIFAR10-Identifier">CIFAR10-Identifier</a> : TensorFlow-based CIFAR-10 Identifier.
-
-- <a href="https://github.com/sinbaddoraji/Maze">Maze Pathfinder</a> : Maze path finding
-
-  
 
 # Mobile Apps
 
