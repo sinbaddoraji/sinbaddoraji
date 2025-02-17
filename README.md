@@ -33,7 +33,7 @@
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
- <p> I am a mid-level FullStack .NET engineer who works with web, mobile and desktop apps. This Github page, however, is a list of projects I managed to work on outside of work. My current main goal is to improve my game development skills and make Indie games part-time </p>
+ <p> I am a mid-level FullStack .NET engineer who works with web, mobile and desktop apps. This Github page, however, is a list of projects I managed to work on outside of work. 
 
 
 # AI/ Machine Learning
