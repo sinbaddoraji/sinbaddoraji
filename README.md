@@ -45,8 +45,8 @@
 # Web
 
    - <b>React (Typescript):</b>
-
-    - <a href="https://github.com/sinbaddoraji/text-tools">Text Tools</a>: A web app with a collection of tools for manipulating strings
+   
+      - <a href="https://github.com/sinbaddoraji/text-tools">Text Tools</a>: A web app with a collection of tools for manipulating strings
 
   - <b>C#:</b>
 
