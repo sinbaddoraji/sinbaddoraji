@@ -38,8 +38,6 @@
 
 # AI/ Machine Learning
 
-- <a href="https://github.com/sinbaddoraji/CIFAR10-Identifier">CIFAR10-Identifier</a> : TensorFlow-based CIFAR-10 Identifier.
-
 - <a href="https://github.com/sinbaddoraji/Maze">Maze Pathfinder</a> : Maze path finding
       
 # Web
