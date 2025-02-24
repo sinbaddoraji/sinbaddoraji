@@ -39,12 +39,12 @@
 # AI/ Machine Learning
 
 - <a href="https://github.com/sinbaddoraji/Maze">Maze Pathfinder</a> : Maze path finding
-      
-# Web
 
-   - <b>React (Typescript):</b>
+
+      
+# Fullstack (Web)
+
    
-      - <a href="https://github.com/sinbaddoraji/text-tools">Text Tools</a>: A web app with a collection of tools for manipulating text
 
   - <b>C#:</b>
 
@@ -59,15 +59,30 @@
 
   - <b>Python:</b>
 
-    - <a href="https://github.com/sinbaddoraji/artim">artim</a>: Website that allows users find artisans
+    - <a href="https://github.com/sinbaddoraji/artim">Artim</a>: Website that allows users find artisans
   
-  - <b>Javascript (No framework):</b>
+ 
+
+# Frontend (Web)
+
+ - <b>React (Typescript):</b>
+
+    - <a href="https://github.com/sinbaddoraji/text-tools">Text Tools</a>: A web app with a collection of tools for manipulating text
+
+ - <b>Javascript (No framework):</b>
+ 
     - <a href="https://github.com/sinbaddoraji/Uk_Skilled_worker_scanner">Uk_Skilled_worker_scanner</a>: A little minimalistic web tool that allows the user search through the UK skilled worker CSV file
 
 
-# Restful APIs - Backend Only
 
-  - <b>Javascript (Node.js or Deno.js):</b>
+
+# Backend (Web)
+
+  - <b> Node:</b>
+  
+    - <a href="https://github.com/sinbaddoraji/ODIC-Server"> ODIC Server</a> : An Open ID / OAuth2.0 compliant authentication server
+   
+  - <b> Node:</b>
 
     - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a> : Backend for a game review app in flutter
 
@@ -81,15 +96,13 @@
       - <a href="https://github.com/sinbaddoraji/DataDock_Functions">DataDock_Functions</a> : API in Azure functions that stores files in blob storage
 
 
-# Game Dev Journery
-
-
- - <a href="https://github.com/sinbaddoraji/SuperPong">SuperPong</a> : An Arcade pong game with powerups and mini games
 
 # Simple Games
 
   - <b>C# games:</b>
 
+      - <a href="https://github.com/sinbaddoraji/SuperPong">SuperPong</a> : An Arcade pong game with powerups and mini games
+   
       - <a href="https://github.com/sinbaddoraji/Smart_TicTakToe">Smart_TicTakToe</a> : TicTakToe with PC
 
       - <a href="https://github.com/sinbaddoraji/Evil_Hangman">Evil_Hangman</a> : Hangman game that cheats
@@ -113,7 +126,9 @@
 
     - <a href="https://github.com/sinbaddoraji/SnakeGame">SnakeGame</a> : Snake game implementation in CLR
 
-# .Net Apps - Simple Tools (WPF, Windows Forms, Avalonia,...)
+
+
+# Desktop .Net Apps - Simple Tools (WPF, Windows Forms, Avalonia,...)
 
   - <b>Console:</b>
 
@@ -142,6 +157,7 @@
   
     - <a href="https://github.com/sinbaddoraji/FineSearch">FineSearch</a> : Tool for searching filesystems for files
 
+
   - <b>WPF:</b>
 
     - <a href="https://github.com/sinbaddoraji/JSharp_IDE">JSharp_IDE</a> : Java IDE that can be used as a code editor
@@ -149,18 +165,16 @@
     - <a href="https://github.com/sinbaddoraji/ExplorerX">ExplorerX</a> : Windows explorer replacement
 
     - <a href="https://github.com/sinbaddoraji/LockBox">LockBox</a> : Password manager
+      
+ - <b>C++:</b>
+    - <a href="https://github.com/sinbaddoraji/TextSearch">TextSearch</a> : Tool for analysisng text files
+
 
 # Mobile Apps
 
   - <b>Flutter:</b>
 
     - <a href="https://github.com/sinbaddoraji/GameRev">GameRev</a> : Game review app built in Flutter.
-
-
-# C++ Apps
-
-  - <a href="https://github.com/sinbaddoraji/TextSearch">TextSearch</a> : Tool for analysisng text files
-
 
 
 # Other
