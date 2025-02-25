@@ -82,7 +82,7 @@
   
     - <a href="https://github.com/sinbaddoraji/ODIC-Server"> ODIC Server</a> : An Open ID / OAuth2.0 compliant authentication server
    
-  - <b> Node:</b>
+  - <b> Deno:</b>
 
     - <a href="https://github.com/sinbaddoraji/GameRev_API">GameRev_API</a> : Backend for a game review app in flutter
 
