@@ -110,6 +110,8 @@
       - <a href="https://github.com/sinbaddoraji/Wordle-WPF">Wordle-WPF</a> : Simple wordle implementation
 
       - <a href="https://github.com/sinbaddoraji/Snakey">Snakey</a> : Snake game in c# console
+   
+      - <a href="https://github.com/sinbaddoraji/flappy-bird">Flappy Bird clone </a> : A flappy bird clone
 
   - <b>Java games:</b>
 
