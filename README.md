@@ -53,6 +53,11 @@
     - <a href="https://github.com/sinbaddoraji/QuizMaker">QuizMaker</a> : Webapp that allows users create and share surveys
 
 
+   - <b> Javascript</b>
+
+      - <a href="https://github.com/sinbaddoraji/static-site-host">Static-Site-Host</a> : Small CDN for static site hosting
+    
+      
   - <b>Java:</b>
 
     - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a> : Clothing store
