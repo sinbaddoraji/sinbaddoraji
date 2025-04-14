@@ -79,6 +79,9 @@
  - <b>Javascript (No framework):</b>
  
     - <a href="https://github.com/sinbaddoraji/Uk_Skilled_worker_scanner">Uk_Skilled_worker_scanner</a>: A little minimalistic web tool that allows the user search through the UK skilled worker CSV file
+  
+    - <a href="https://github.com/sinbaddoraji/retro-page">Retro game page</a>: A retro arcade page
+  
 
 
 
