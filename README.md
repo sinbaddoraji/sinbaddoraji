@@ -74,6 +74,8 @@
     - <a href="https://github.com/sinbaddoraji/text-tools">Text Tools</a>: A web app with a collection of tools for manipulating text
   
     - <a href="https://github.com/sinbaddoraji/cuvira">Cuvira</a>: A CV and cover letter generator
+  
+    - <a href="https://github.com/sinbaddoraji/Sigil-maker">Sigru</a>: A technomancy project for creating sigils
 
  - <b>Javascript (No framework):</b>
  
