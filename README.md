@@ -38,6 +38,8 @@
 # AI/ Machine Learning
 
 - <a href="https://github.com/sinbaddoraji/Maze">Maze Pathfinder</a> : Maze path finding
+  
+- < href="https://github.com/sinbaddoraji/DeepFakeCam">DeepFake cam</a>: Live deep fake attempt
 
 
       
