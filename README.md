@@ -34,6 +34,10 @@
 
  <p> I am a mid-level FullStack .NET engineer who works with web, mobile and desktop apps. This Github page, however, is a list of projects I managed to work on outside of work. 
 
+# Open Source
+
+- <a href="https://github.com/sinbaddoraji/spreadsheet-mobile">Spreadsheet mobile</a>
+
 
 # AI/ Machine Learning
 
