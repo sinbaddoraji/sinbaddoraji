@@ -66,10 +66,6 @@
   - <b>Java:</b>
 
     - <a href="https://github.com/sinbaddoraji/Clothes4Men">Clothes4Men</a> : Clothing store
-
-  - <b>Python:</b>
-
-    - <a href="https://github.com/sinbaddoraji/artim">Artim</a>: Website that allows users find artisans
   
  
 
