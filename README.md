@@ -32,7 +32,7 @@
 
 
 
- <p> I am a mid-level FullStack .NET engineer who works with web, mobile and desktop apps. This Github page, however, is a list of projects I managed to work on outside of work. 
+ <p> I am a software engineer who works with React & Asp.Net core experience. This Github page, however, is a list of projects I managed to work on outside of work. 
 
 
 
